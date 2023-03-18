@@ -1,4 +1,4 @@
-# Backtracking Buildings Emmissions
+# Backtracking Buildings Emissions
 
 ## Background
 According to Boston's Building Emissions Reduction and Disclosure Ordinance (BERDO), organizations with a certain threshold in square footage are required to report the greenhouse gas emissions, energy usage, and energy costs of their buildings. The purpose of BERDO is to make organizations more aware of these factors with the goal of enabling them to reduce all three. For more information on BERDO please refer to their website.
