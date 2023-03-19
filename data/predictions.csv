@@ -1,9 +1,9 @@
-Code,Address,ESPM Property Type,space@BU Property Type
-600,33 Harry Agganis Way,Residence Hall/Dormitory,Residential
-918,815 Albany Street,Multifamily Housing,Residential
-972,Peabody Hall (210 Riverway),Multifamily Housing,Residential
-973,Riverway House (160-162 Riverway),Residence Hall/Dormitory,Residential
-975,Campus Center and Student Residence (150 Riverway),Residence Hall/Dormitory,Residential
-969,37 Pilgrim Road,Residence Hall/Dormitory,Residential
-974,154 Riverway,Residence Hall/Dormitory,Residential
-608,610 Commonwealth Avenue,Laboratory,Research
+Code,Address,ESPM Property Type,space@BU Property Type,2006Area
+600,33 Harry Agganis Way,Residence Hall/Dormitory,Residential,400268
+918,815 Albany Street,Multifamily Housing,Residential,102126
+972,Peabody Hall (210 Riverway),Multifamily Housing,Residential,58637
+973,Riverway House (160-162 Riverway),Residence Hall/Dormitory,Residential,31106
+975,Campus Center and Student Residence (150 Riverway),Residence Hall/Dormitory,Residential,57107
+969,37 Pilgrim Road,Residence Hall/Dormitory,Residential,
+974,154 Riverway,Residence Hall/Dormitory,Residential,
+608,610 Commonwealth Avenue,Laboratory,Research,170000
